@@ -1,0 +1,2 @@
+# SinaWeiboSpider
+新浪微博爬虫webcollector内核根据用户名爬取用户下的微博的所有评论
